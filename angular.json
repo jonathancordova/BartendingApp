@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "BartendApp"
+    }
+  },
+  "defaultProject": "BartendApp",
+  "cli": {
+    "analytics": "053320f4-acd0-47a6-8053-c732efdd9d01"
+  }
 }
